@@ -14,6 +14,8 @@ public class Address
 	  this.pincode = pincode;
 	  this.landmark = landmark;
           this.landmark = landmark1;
+          this.landmark = landmark2;
+          
    }
   
    public String getCountryName()
