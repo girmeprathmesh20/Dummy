@@ -13,6 +13,7 @@ public class Address
 	  this.cityName = cityName;
 	  this.pincode = pincode;
 	  this.landmark = landmark;
+          this.landmark = landmark1;
    }
   
    public String getCountryName()
